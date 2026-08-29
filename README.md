@@ -1,22 +1,22 @@
 <div align="center">
 
-<!-- Üst Hareketli Süzülen Gradient Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,15,30&height=160&section=header&text=zezeorj&fontSize=48&fontColor=38BDF8&animation=fadeIn&fontAlignY=35&desc=Node.js%20%26%20Discord.js%20Architect&descSize=15&descColor=94A3B8" width="100%" />
+<!-- 1. EXTREME HAREKETLİ GESTURE / WAVE BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,4,10,15,20&height=220&section=header&text=zezeorj&fontSize=55&fontColor=38BDF8&animation=scaleIn&fontAlignY=38&desc=NODE.JS%20&%20DISCORD.JS%20ARCHITECT&descSize=16&descColor=94A3B8&stroke=38BDF8&strokeWidth=2" width="100%" />
 
 <br>
 
-<!-- Akıcı Daktilo Efekti (Yazı Animasyonu) -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Building+Smart+Automation+%26+Discord+Bots;Clean+Code+%26+Scalable+Backend+Systems;Turning+Ideas+Into+Reality+%E2%9A%A1)](https://git.io/typing-svg)
+<!-- 2. HIZLI AKICI DAKTİLO (TYPING) ANİMASYONU -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=700&height=60&lines=⚡+CRAFTING+INTELLIGENT+DISCORD+BOTS;🚀+SCALABLE+BACKEND+ARCHITECTURE;🔥+CLEAN+CODE+%26+AUTOMATION+MASTER)](https://git.io/typing-svg)
 
 <br>
 
-<!-- Hareketli/Animasyonlu Sosyal Medya Rozetleri -->
+<!-- 3. ANİMASYONLU NEON SOSYAL BUTONLAR -->
 <p align="center">
   <a href="https://discord.com/users/887969392321789953" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/DISCORD-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&color=5865F2" />
   </a>
   <a href="https://github.com/zezeorj" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white&color=181717" />
   </a>
 </p>
 
@@ -24,8 +24,9 @@
 
 ---
 
-### 💻 Tech Stack & Tools
+<h3 align="center">⚡ VISUAL TECH STACK & SKILLS ⚡</h3>
 
+<!-- 4. HAREKETLİ / PARLAYAN (SHIELDS) TEKNOLOJİ ROZETLERİ -->
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -35,18 +36,30 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
+<br>
+
+<!-- 5. 3D ANİMASYONLU KODLAMA İKONLARI (SKILL ICONS) -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,mongodb,express,git,vscode,discord" alt="Skill Icons" />
+</div>
+
 ---
 
-### ⚡ Live Activity & Status
+<h3 align="center">🔥 LIVE GITHUB ACTIVITY & METRICS 🔥</h3>
+
+<!-- 6. ANİMASYONLU AKTİVİTE GRAFİĞİ (GITSCORE VEYA BASH GRAPH) -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zezeorj&theme=tokyonight" alt="Profile Details" />
+</div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Coding_Something_Awesome-success?style=for-the-badge&logo=coffeescript" />
-  <img src="https://img.shields.io/badge/Focus-Backend_%26_Bots-blue?style=for-the-badge&logo=probot&logoColor=white" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zezeorj&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zezeorj&theme=tokyonight&utcOffset=4" alt="Productive Time" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Alt Kapanış Animasyonlu Dalga Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,15,0&height=90&section=footer" width="100%" />
+  <!-- 7. ALT KAPANIŞ ANİMASYONLU GRADIENT DALGA -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,15,10,4,0&height=100&section=footer" width="100%" />
 </div>
