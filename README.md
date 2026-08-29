@@ -2,15 +2,17 @@
 
 # 👋 Welcome to my profile!
 
-<!-- Canlı Akan Animasyon Başlığı -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=50&lines=Node.js+%26+Discord.js+Developer;Building+Smart+Automation+%26+Bots;Clean+Code+%26+Robust+Backends)](https://git.io/typing-svg)
+<!-- Canlı Dönen Yazı Animasyonu -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=60&lines=Node.js+%26+Discord.js+Architect;Building+Smart+Automation+%26+Bots;Clean+Code+%26+Scalable+Backends;Let's+build+something+awesome!)](https://git.io/typing-svg)
+
+<br>
 
 <p align="center">
   <a href="https://discord.com/users/887969392321789953" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://github.com/zezeorj" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -33,10 +35,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zezeorj&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zezeorj&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=zezeorj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zezeorj&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zezeorj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
