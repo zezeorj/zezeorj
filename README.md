@@ -1,28 +1,28 @@
 <div align="center">
 
-<!-- 1. PREMIUM DARK TWINKLE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,0D1117,161B22&height=220&section=header&text=Rasim%20Şixəliyev&fontSize=45&fontColor=C9D1D9&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20Motion%20Designer&descSize=16&descColor=8B949E&stroke=58A6FF&strokeWidth=1" width="100%" />
+<!-- 1. ELITE TWINKLING HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,0D1117,161B22&height=220&section=header&text=Zeze&fontSize=50&fontColor=F0F6FC&animation=twinkling&fontAlignY=35&desc=Backend%20Architect%20%7C%20Motion%20Designer&descSize=16&descColor=8B949E&stroke=238636&strokeWidth=1" width="100%" />
 
 <br><br>
 
-<!-- 2. JETBRAINS MONO IDE TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=const+profile+%3D+new+Developer('Rasim')%3B;await+profile.build('Discord_Bots_%26_Backend')%3B;await+profile.render('Motion_Graphics')%3B;while(alive)+%7B+code()+%2B+design()+%7D)](https://git.io/typing-svg)
+<!-- 2. ARCHITECT TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=238636&center=true&vCenter=true&width=800&height=60&lines=const+zeze+%3D+new+SystemArchitecture()%3B;await+zeze.initialize('Discord_Bots_%26_Backend')%3B;await+zeze.renderMotionGraphics()%3B;while(true)+%7B+code();+design();+%7D)](https://git.io/typing-svg)
 
 <br>
 
-<!-- 3. STATUS BADGES -->
+<!-- 3. ELITE STATUS BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/System-ONLINE-10B981?style=for-the-badge&color=0D1117&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Class-ARCHITECT-58A6FF?style=for-the-badge&color=0D1117&labelColor=000000" />
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-238636?style=for-the-badge&color=0D1117&labelColor=010409&logo=linux&logoColor=238636" />
+  <img src="https://img.shields.io/badge/SECURITY-SSH_SECURE-58A6FF?style=for-the-badge&color=0D1117&labelColor=010409&logo=gnometerminal&logoColor=58A6FF" />
 </p>
 
 </div>
 
 ---
 
-<h3 align="center">✦ TECH & DESIGN ARSENAL ✦</h3>
+<h3 align="center">✦ CORE ARSENAL & SKILLS ✦</h3>
 
-<!-- 4. 3D SKILL ICONS (Dark Mode) -->
+<!-- 4. DARK MODE 3D SKILL ICONS -->
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,discord,mongodb,git,github,linux,vscode,ae,pr,figma&theme=dark" />
@@ -31,33 +31,34 @@
 
 <br>
 
-<!-- 5. TECH BADGES -->
+<!-- 5. TECH STACK PILLS -->
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
   <img src="https://img.shields.io/badge/Discord.js-0D1117?style=flat-square&logo=discord&logoColor=5865F2" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/After_Effects-0D1117?style=flat-square&logo=adobeaftereffects&logoColor=9999FF" />
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" />
 </div>
 
 ---
 
-<h3 align="center">✦ GITHUB METRICS & STATS ✦</h3>
+<h3 align="center">✦ GITHUB TELEMETRY & STATS ✦</h3>
 
-<!-- 6. GÜVENLİ VE ÖNBELLEKLENMİŞ İSTATİSTİK KARTLARI -->
+<!-- 6. PREMIUM STABLE STATS (Cache korumalı, asla bozulmaz) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zezeorj&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&cache_seconds=86400" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zezeorj&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true&cache_seconds=86400" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zezeorj&show_icons=true&bg_color=0D1117&title_color=238636&text_color=C9D1D9&icon_color=238636&hide_border=true&cache_seconds=86400" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zezeorj&layout=compact&bg_color=0D1117&title_color=238636&text_color=C9D1D9&hide_border=true&cache_seconds=86400" alt="Top Langs" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zezeorj&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zezeorj&theme=tokyonight&hide_border=true&background=0D1117&ring=238636&fire=238636&currStreakNum=238636" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- 7. FOOTER -->
+  <!-- 7. ELITE FOOTER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=161B22,0D1117,000000&height=100&section=footer" width="100%" />
 </div>
