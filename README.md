@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- 1. SİBERPUNK MATRIX / NEON HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,3,7,12,18,25&height=220&section=header&text=zezeorj&fontSize=60&fontColor=00FF66&animation=scaleIn&fontAlignY=38&desc=SYSTEM_ADMIN&20|&20BACKEND_ARCHITECT&descSize=16&descColor=00E5FF&stroke=00FF66&strokeWidth=2" width="100%" />
+<!-- 1. HAREKETLİ SİBERPUNK MATRIX BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,3,7,12,18,25&height=220&section=header&text=zezeorj&fontSize=60&fontColor=00FF66&animation=scaleIn&fontAlignY=38&desc=SYSTEM_ADMIN%20|%20BACKEND_ARCHITECT&descSize=16&descColor=00E5FF&stroke=00FF66&strokeWidth=2" width="100%" />
 
 <br>
 
@@ -32,7 +32,7 @@
 
 <h3 align="center">🛠️ SYSTEM CORE & TECH MATRIX 🛠️</h3>
 
-<!-- 4. 3D ANİMASYONLU İKONLAR -->
+<!-- 4. 3D ANİMASYONLU SKILL İKONLARI -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,mongodb,express,git,github,linux,vscode,discord,postman,docker" alt="Skill Icons" />
 </div>
@@ -52,10 +52,13 @@
 
 <h3 align="center">📊 LIVE TELEMETRY & ANALYTICS 📊</h3>
 
-<!-- 5. TOKYO NIGHT GELİŞMİŞ İSTATİSTİKLER -->
+<!-- 5. TOKYO NIGHT GÜVENLİ İSTATİSTİK KARTLARI -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zezeorj&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zezeorj&theme=tokyonight&utcOffset=4" alt="Productive Time" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zezeorj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zezeorj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </div>
 
 <div align="center">
