@@ -1,11 +1,12 @@
 <div align="center">
 
-# 👋 Welcome to my profile!
-
-<!-- Canlı Dönen Yazı Animasyonu -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=60&lines=Node.js+%26+Discord.js+Architect;Building+Smart+Automation+%26+Bots;Clean+Code+%26+Scalable+Backends;Let's+build+something+awesome!)](https://git.io/typing-svg)
+<!-- Hareketli Karşılama Banner Efekti -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=zezeorj&fontSize=50&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=Node.js%20%26%20Discord.js%20Architect&descSize=16&descColor=94A3B8" width="100%" />
 
 <br>
+
+<!-- Akıcı Yazı Animasyonu -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=55&lines=Building+Smart+Automation+%26+Discord+Bots;Clean+Code+%26+Scalable+Backend+Systems;Turning+Ideas+Into+Reality+%E2%9A%A1)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://discord.com/users/887969392321789953" target="_blank">
@@ -20,7 +21,7 @@
 
 ---
 
-### 💻 Coding Languages & Technologies
+### 💻 Tech Stack & Tools
 
 <div align="center">
 
@@ -35,16 +36,21 @@
 
 ---
 
-### 📊 GitHub Stats & Metrics
+### 📊 GitHub Stats & Streak
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=zezeorj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zezeorj&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <!-- Yan Yana Tokyoniht İstatistik Kartları -->
+  <img src="https://github-readme-stats.vercel.app/api?username=zezeorj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zezeorj&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+  <br><br>
+
+  <!-- GitHub Günlük Seri / Streak Animasyon Kartı -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zezeorj&theme=tokyonight&hide_border=true&fire=38BDF8" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zezeorj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=80&section=footer" width="100%" />
 </div>
