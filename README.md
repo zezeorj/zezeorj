@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- Hareketli Başlık Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=zezeorj&fontSize=50&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=Node.js%20%26%20Discord.js%20Architect&descSize=16&descColor=94A3B8" width="100%" />
-
-<br>
+# 👋 Welcome to my profile!
 
 <!-- Akıcı Yazı Animasyonu -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=55&lines=Building+Smart+Automation+%26+Discord+Bots;Clean+Code+%26+Scalable+Backend+Systems;Turning+Ideas+Into+Reality+%E2%9A%A1)](https://git.io/typing-svg)
@@ -34,20 +31,9 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zezeorj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zezeorj&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zezeorj&theme=tokyonight&hide_border=true" />
-</p>
+### ⚡ Connect with me
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=80&section=footer" width="100%" />
+  <img src="https://img.shields.io/badge/Status-Online-success?style=for-the-badge&logo=coffeescript" />
+  <img src="https://img.shields.io/badge/Focus-Backend_%26_Bots-blue?style=for-the-badge" />
 </div>
