@@ -50,23 +50,13 @@
 
 ---
 
-<h3 align="center">📊 LIVE TELEMETRY & ANALYTICS 📊</h3>
+<h3 align="center">⚡ SYSTEM TELEMETRY & PERFORMANCE ⚡</h3>
 
-<!-- 5. HATASIZ VE KARARLI İSTATİSTİK KARTLARI -->
+<!-- 5. ASLA BOZULMAYAN HATASIZ GÜVENLİ ROZETLER -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zezeorj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zezeorj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zezeorj&theme=tokyonight&hide_border=true&fire=00FF66&stroke=00E5FF" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/BACKEND_ENGINE-ACTIVE-00FF66?style=for-the-badge&logo=nodedotjs&logoColor=black" />
+  <img src="https://img.shields.io/badge/AUTOMATION_BOTS-RUNNING-00E5FF?style=for-the-badge&logo=discord&logoColor=black" />
+  <img src="https://img.shields.io/badge/CODE_QUALITY-PRISTINE-yellow?style=for-the-badge&logo=git&logoColor=black" />
 </div>
 
 <br>
