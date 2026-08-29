@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- 1. ELITE TWINKLING HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,0D1117,161B22&height=220&section=header&text=Zeze&fontSize=50&fontColor=F0F6FC&animation=twinkling&fontAlignY=35&desc=Backend%20Architect%20%7C%20Motion%20Designer&descSize=16&descColor=8B949E&stroke=238636&strokeWidth=1" width="100%" />
+<br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=60&duration=2500&pause=800&color=238636&center=true&vCenter=true&width=850&height=120&lines=~%2Fzeze_core.sys;%20%20%20>>_INITIALIZING_SYSTEM...;>>_WELCOME_TO_THE_ELITE_ARCADE;" />
+</div>
 
-<br><br>
-
-<!-- 2. ARCHITECT TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=238636&center=true&vCenter=true&width=800&height=60&lines=const+zeze+%3D+new+SystemArchitecture()%3B;await+zeze.initialize('Discord_Bots_%26_Backend')%3B;await+zeze.renderMotionGraphics()%3B;while(true)+%7B+code();+design();+%7D)](https://git.io/typing-svg)
-
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=161B22,0D1117,000000&height=35&section=header" width="100%" />
 <br>
 
-<!-- 3. ELITE STATUS BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-238636?style=for-the-badge&color=0D1117&labelColor=010409&logo=linux&logoColor=238636" />
   <img src="https://img.shields.io/badge/SECURITY-SSH_SECURE-58A6FF?style=for-the-badge&color=0D1117&labelColor=010409&logo=gnometerminal&logoColor=58A6FF" />
@@ -22,7 +19,6 @@
 
 <h3 align="center">✦ CORE ARSENAL & SKILLS ✦</h3>
 
-<!-- 4. DARK MODE 3D SKILL ICONS -->
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,discord,mongodb,git,github,linux,vscode,ae,pr,figma&theme=dark" />
@@ -31,7 +27,6 @@
 
 <br>
 
-<!-- 5. TECH STACK PILLS -->
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
   <img src="https://img.shields.io/badge/Discord.js-0D1117?style=flat-square&logo=discord&logoColor=5865F2" />
@@ -44,7 +39,6 @@
 
 <h3 align="center">✦ SYSTEM TELEMETRY & METRICS ✦</h3>
 
-<!-- 6. ASLA PATLAMAYAN / STABIL "PAHALI" GELİŞTİRİCİ METRİKLERİ -->
 <div align="center">
   <img src="https://img.shields.io/badge/ARCHITECTURE-MICROSERVICES-238636?style=for-the-badge&color=0D1117&labelColor=010409&logo=docker&logoColor=238636" />
   <img src="https://img.shields.io/badge/DATABASE-MONGODB_CLUSTERED-58A6FF?style=for-the-badge&color=0D1117&labelColor=010409&logo=mongodb&logoColor=58A6FF" />
@@ -61,6 +55,5 @@
 <br>
 
 <div align="center">
-  <!-- 7. ELITE FOOTER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=161B22,0D1117,000000&height=100&section=footer" width="100%" />
 </div>
