@@ -52,14 +52,18 @@
 
 <h3 align="center">📊 LIVE TELEMETRY & ANALYTICS 📊</h3>
 
-<!-- 5. TOKYO NIGHT GÜVENLİ İSTATİSTİK KARTLARI -->
+<!-- 5. HATASIZ VE KARARLI İSTATİSTİK KARTLARI -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zezeorj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zezeorj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zezeorj&theme=tokyonight&hide_border=true&fire=00FF66&stroke=00E5FF" alt="GitHub Streak" />
