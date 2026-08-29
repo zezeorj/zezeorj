@@ -42,18 +42,20 @@
 
 ---
 
-<h3 align="center">✦ GITHUB TELEMETRY & STATS ✦</h3>
+<h3 align="center">✦ SYSTEM TELEMETRY & METRICS ✦</h3>
 
-<!-- 6. PREMIUM STABLE STATS (Cache korumalı, asla bozulmaz) -->
+<!-- 6. ASLA PATLAMAYAN / STABIL "PAHALI" GELİŞTİRİCİ METRİKLERİ -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zezeorj&show_icons=true&bg_color=0D1117&title_color=238636&text_color=C9D1D9&icon_color=238636&hide_border=true&cache_seconds=86400" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zezeorj&layout=compact&bg_color=0D1117&title_color=238636&text_color=C9D1D9&hide_border=true&cache_seconds=86400" alt="Top Langs" width="48%" />
+  <img src="https://img.shields.io/badge/ARCHITECTURE-MICROSERVICES-238636?style=for-the-badge&color=0D1117&labelColor=010409&logo=docker&logoColor=238636" />
+  <img src="https://img.shields.io/badge/DATABASE-MONGODB_CLUSTERED-58A6FF?style=for-the-badge&color=0D1117&labelColor=010409&logo=mongodb&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/AUTOMATION-DISCORD.JS_V14-8957E5?style=for-the-badge&color=0D1117&labelColor=010409&logo=discord&logoColor=8957E5" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zezeorj&theme=tokyonight&hide_border=true&background=0D1117&ring=238636&fire=238636&currStreakNum=238636" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/CORE_FOCUS-BACKEND_%2B_MOTION-F0F6FC?style=for-the-badge&color=161B22&labelColor=0D1117&logo=adobeaftereffects&logoColor=F0F6FC" />
+  <img src="https://img.shields.io/badge/ENVIRONMENT-LINUX_/_VS_CODE-D29922?style=for-the-badge&color=0D1117&labelColor=010409&logo=linux&logoColor=D29922" />
 </div>
 
 <br>
